@@ -1,14 +1,14 @@
 /* variables in root element */
 
 :root {
-  --font-family-main: "Bricolage Grotesque", sans-serif;
-  --font-family-content: "Spectral", serif;
-  --font-family-summary: "Spectral", serif;
+  --font-family-main: "Roboto Mono", monospace;
+  --font-family-content: "Roboto Mono", monospace;
+  --font-family-summary: "Roboto Mono", monospace;
 
   --dim-color: #88888844;
 
   --quote-text-color: #888;
-  --code-background-color: #333030;
+  --code-background-color: #242424;
   --code-text-color: #f0efea;
 }
 
@@ -16,15 +16,15 @@
   --body-text-color: #222;
   --body-background-color: #f0efea;
 
-  --primary-color: #cd5c5c;
-  --selection-color: #dda19b;
+  --primary-color: #690900;
+  --selection-color: #f4aca7;
 }
 
 :root[color-scheme^='dark'] {
   --body-text-color: #f0efea;
-  --body-background-color: #222;
+  --body-background-color: #121212;
 
-  --primary-color: #cd5c5c;
-  --selection-color: #7d4141;
+  --primary-color: #ff6f61;
+  --selection-color: #89403b;
 }
 

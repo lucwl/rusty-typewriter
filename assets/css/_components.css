@@ -179,6 +179,7 @@
 }
 
 .term-container {
+  margin-top: 1rem;
   display: flex;
   flex-wrap: wrap;
   overflow: hidden;
