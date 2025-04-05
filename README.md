@@ -1,4 +1,9 @@
-# Rusty Typewriter
+# Rusty Typewriter - customised
+
+A customised version of Rusty Typewriter for my personal website with improved SEO.
+
+Credit to [math-queiroz](https://github.com/math-queiroz/rusty-typewriter) for the original, [miras-ua](https://github.com/mirus-ua/hugo-theme-re-terminal) for the Open Graph SEO template and [xianmin](https://github.com/xianmin/hugo-theme-jane) for the
+social media icon template.
 
 [![Hugo Version](https://img.shields.io/badge/hugo-0.121.0+-blue.svg)](https://github.com/gohugoio/hugo/releases)
 [![License](https://img.shields.io/github/license/math-queiroz/rusty-typewriter)](LICENSE)
