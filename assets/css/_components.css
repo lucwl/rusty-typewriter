@@ -45,7 +45,7 @@
 }
 
 .greetings-title {
-  margin: .1rem;
+  margin: 1rem;
 }
 
 .greetings-text {
@@ -92,6 +92,18 @@
   display: -webkit-box;
   -webkit-line-clamp: 3;
   -webkit-box-orient: vertical;
+}
+
+.socials-container {
+  margin-top: 1.5rem;
+  display: flex;
+  justify-content: center;
+  gap: 1.5rem;
+}
+
+.socials-container svg {
+  transform: scale(150%);
+  color: var(--primary-color);
 }
 
 .pagination {

@@ -1,0 +1,8 @@
+<div class="socials-container">
+  {{- range $name, $url := site.Data.rtwt.content.social }}
+    <a href="{{ $url }}" target="_blank" rel="noopener noreferrer" title="{{ $name }}">
+      {{- $svgPath := printf "svg/%s.svg" $name }}
+      {{- partial $svgPath -}}
+    </a>
+  {{- end }}
+</div>

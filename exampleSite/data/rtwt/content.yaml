@@ -10,4 +10,7 @@ side:
     imagePath: 'images/hugo.svg'
     imageHref: 'https://gohugo.io'
     imageWidth: '100%'
-
+social:
+  github: "https://github.com/yourusername"
+  twitter: "https://twitter.com/yourusername"
+  linkedin: "https://linkedin.com/in/yourusername"
