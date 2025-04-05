@@ -5,7 +5,6 @@
     <div>
       {{- $ThemeAnchor := .Site.Params.links.theme | printf "<a href=\"%s\" target=\"_blank\">Rusty Typewriter</a>" -}}
       {{- $HugoAnchor := .Site.Params.links.hugo | printf "<a href=\"%s\" target=\"_blank\">Hugo</a>" -}}
-      {{- i18n "footer" (dict "ThemeAnchor" $ThemeAnchor "HugoAnchor" $HugoAnchor) | safeHTML -}}
     </div>
   </div>
 </div>

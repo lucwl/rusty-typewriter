@@ -4,7 +4,6 @@ theme_dark: Tema Escuro
 
 # Footer
 scroll_top: Voltar ao topo
-footer: Feito com ❤️ usando o tema {{ .ThemeAnchor }} para {{ .HugoAnchor }}
 
 # Home
 featured_posts: Em Destaque
