@@ -21,7 +21,7 @@
   {{ if isset $.Site.Params "favicon" }}
     <meta property="og:image" content="{{ $.Site.Params.favicon | absURL }}">
   {{ else }}
-    <meta property="og:image" content="{{ printf "img/favicon/%s.png" $.Site.Params.ThemeColor | absURL }}">
+    <meta property="og:image" content="images/favicon.ico">
   {{ end }}
 {{ end }}
 <meta property="og:image:width" content="1200">
