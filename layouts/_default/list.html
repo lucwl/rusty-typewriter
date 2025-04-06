@@ -11,7 +11,7 @@
           {{- dateFormat (or .Site.Params.dateFormat "Jan 2") .Date -}}
         </time>
       </div>
-      <div class="list-group-summary content-font">{{- partial "components/summary.html" . -}}</div>
+      <small><div class="list-group-summary content-font">{{- partial "components/summary.html" . -}}</div></small>
     {{- end -}}
   {{- end -}}
   {{ template "_internal/pagination.html" . }}
