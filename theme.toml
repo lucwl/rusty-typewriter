@@ -1,9 +1,9 @@
-name = 'Rusty Typewriter'
+name = 'Rusty Typewriter Better'
 license = 'MIT'
-licenselink = 'https://github.com/math-queiroz/rusty-typewriter/LICENSE'
+licenselink = 'https://github.com/lucwl/rusty-typewriter-better/LICENSE'
 description = 'A rusty hugo theme'
 
-homepage = 'https://github.com/math-queiroz/rusty-typewriter'
+homepage = 'https://github.com/lucwl/rusty-typewriter-better'
 demosite = 'https://math-queiroz.github.io/rusty-typewriter'
 
 tags = ["responsive", "minimal", "blog"]
