@@ -112,7 +112,12 @@ footer#main-footer {
 
 section {
   font-family: var(--font-family-content);
-  text-align: justify;
+}
+
+section img {
+  max-width: 100%;
+  border-radius: 0.5rem;
+  margin: 1rem 0;
 }
 
 a {
