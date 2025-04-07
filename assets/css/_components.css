@@ -209,3 +209,7 @@
 .search-result {
   border-top: 1px var(--dim-color) solid;
 }
+
+.arrow {
+  margin: 0 0.2rem;
+}
