@@ -85,6 +85,12 @@ div#nav-menu {
   }
 }
 
+@media (max-width: 660px) {
+  div#main-pane {
+    width: 95%;
+  }
+}
+
 a#nav-dropdown-button {
   display: none;
 }
